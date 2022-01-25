@@ -1,1 +1,4 @@
 message: message from config-server
+til:
+  service:
+    url: 9999
