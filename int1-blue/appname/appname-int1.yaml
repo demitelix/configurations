@@ -1,1 +1,2 @@
-til: VALUE FROM INT1
+service:
+    url: VALUE FROM INT1

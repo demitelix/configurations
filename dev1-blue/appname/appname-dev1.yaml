@@ -1,1 +1,2 @@
-til: VALUE FROM DEV1
+service:
+    url: VALUE FROM DEV1

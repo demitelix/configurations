@@ -1,1 +1,2 @@
-til: value from CONFIG/APPLICATION
+serive:
+    url: value from CONFIG/APPLICATION
